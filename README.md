@@ -58,13 +58,13 @@ Attention Sink
 
 
 
-通用因果推断大模型：LimiX
+通用因果发现大模型：LimiX
 
 ![](./figures/微信图片_20260719213639_36_63.jpg)
 
 
 
-表格型数据任务的 benchmark 和 datasets
+表格型数据任务的 benchmarks 和 datasets
 
 ![](./figures/微信图片_20260719213646_37_63.jpg)
 
